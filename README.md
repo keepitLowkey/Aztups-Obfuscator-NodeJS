@@ -1,4 +1,9 @@
-# Aztups-Obfuscater-NodeJS
+# Aztups-Obfuscator-NodeJS
+
+```
+Credits goes to Aztup for modifying Defcon's Iron Brew obfuscator.
+Also to CharWar for encouraging me to release this version.
+```
 
 ```
 You must have Node.js installed.
