@@ -1,0 +1,19 @@
+{
+  "name": "aztups-obfuscator-njs",
+  "version": "1.0.0",
+  "credits": [
+    "Aztup's Obfuscator",
+    "Defcon's Iron Brew",
+    "CharWar for encouraging me to actually post this"
+  ],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "S. / Keshiki#3065",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

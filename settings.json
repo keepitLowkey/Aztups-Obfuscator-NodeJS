@@ -1,0 +1,10 @@
+{
+	"NoControlFlow": false,
+	"NoBytecodeCompress": false,
+	"EncryptStrings": false,
+	"EncryptImportantStrings": false,
+	"PreserveLineInfo": false,
+	"AddMemes": true,
+	"Uglify": true,
+	"CustomVarName": "Created_With_NodeJs"
+}
